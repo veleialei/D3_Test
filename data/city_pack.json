@@ -43,56 +43,41 @@
 			{"name":"Hami"}
 		]
 	}, {
-    "name": "河北",
+    "name": "Hebei",
     "children": [{
-      "name": "石家庄"
+      "name": "Shijiazhuang"
     }, {
-      "name": "唐山"
+      "name": "Tangshan"
     }, {
-      "name": "邯郸"
+      "name": "Handan"
     }, {
-      "name": "秦皇岛"
+      "name": "Qinhuangdao"
     }]
   }, {
-    "name": "西藏",
+    "name": "Xizang",
     "children": [{
-      "name": "拉萨"
+      "name": "Lasa"
     }, {
-      "name": "昌都"
+      "name": "Changdu"
     }, {
-      "name": "林芝"
+      "name": "Linzhi"
     }]
   }, {
-    "name": "江苏",
+    "name": "Jiangsu",
     "children": [{
-      "name": "南京"
+      "name": "Nanjing"
     }, {
-      "name": "无锡"
+      "name": "Wuxi"
     }, {
-      "name": "徐州"
+      "name": "Xuzhou"
     }, {
-      "name": "常州"
+      "name": "Changzhou"
     }, {
-      "name": "连云港"
+      "name": "Lianyungang"
     }, {
-      "name": "淮安"
+      "name": "Huaian"
     }]
-  }, {
-    "name": "江苏",
-    "children": [{
-      "name": "南京"
-    }, {
-      "name": "无锡"
-    }, {
-      "name": "徐州"
-    }, {
-      "name": "常州"
-    }, {
-      "name": "连云港"
-    }, {
-      "name": "淮安"
-    }]
-  }, {
+  },  {
     "name": "湖南",
     "children": [{
       "name": "长沙"
