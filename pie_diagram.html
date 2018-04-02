@@ -23,12 +23,12 @@
         var pie = d3.layout.pie();
 
         var outerRadius = width / 2;
-        var innerRadius = width / 4;
+        var innerRadius = width / 8;
         var arc = d3.svg.arc()
                         .innerRadius(innerRadius)
                         .outerRadius(outerRadius);
 
-        var color = d3.scale.category10();
+        var color = d3.scale.category20();
 
         var arcs = svg.selectAll("g")
                       .data(pie(dataset))
@@ -55,7 +55,7 @@
 
         console.log(dataset);
         console.log(pie(dataset));
-            
+
         </script>
 
     </body>
