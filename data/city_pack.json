@@ -1,50 +1,48 @@
 {
-  "name": "中国",
+  "name": "Chian",
   "children": [{
-    "name": "浙江",
+    "name": "Zhejiang",
     "children": [{
-      "name": "杭州"
+      "name": "Hangzhou"
     }, {
-      "name": "宁波"
+      "name": "Ningbo"
     }, {
-      "name": "温州"
+      "name": "Wenzhou"
     }, {
-      "name": "绍兴"
+      "name": "Shaoxing"
     }]
   }, {
-    "name": "广西",
+    "name": "Guangxi",
     "children": [{
-      "name": "桂林"
+      "name": "Guilin"
     }, {
-      "name": "南宁"
+      "name": "Nanning"
     }, {
-      "name": "柳州"
+      "name": "Liuzhou"
     }, {
-      "name": "防城港"
+      "name": "Fangchenggang"
     }]
   }, {
-    "name": "黑龙江",
+    "name": "Heilongjiang",
     "children": [{
-      "name": "哈尔滨"
+      "name": "Haerbing"
     }, {
-      "name": "齐齐哈尔"
+      "name": "Qiqihaer"
     }, {
-      "name": "牡丹江"
+      "name": "Mudanjiang"
     }, {
-      "name": "大庆"
+      "name": "Daqing"
     }]
   }, {
-    "name": "新疆",
-    "children": [{
-      "name": "乌鲁木齐"
-    }, {
-      "name": "克拉玛依"
-    }, {
-      "name": "吐鲁番"
-    }, {
-      "name": "哈密"
-    }]
-  }, {
+		"name":"Xinjiang" ,
+		"children":
+		[
+			{"name":"Wulumuqi"},
+			{"name":"Kelamayi"},
+			{"name":"Tulufan"},
+			{"name":"Hami"}
+		]
+	}, {
     "name": "河北",
     "children": [{
       "name": "石家庄"
@@ -134,19 +132,19 @@
       "name": "延安"
     }]
   }, {
-    "name": "甘肃",
+    "name": "Gansu",
     "children": [{
-      "name": "兰州"
+      "name": "Lanzhou"
     }, {
-      "name": "酒泉"
+      "name": "Jiuquan"
     }, {
-      "name": "金昌"
+      "name": "Jinchang"
     }, {
-      "name": "天水"
+      "name": "Tianshui"
     }, {
-      "name": "嘉峪关"
+      "name": "Jiayuguan"
     }, {
-      "name": "武威"
+      "name": "Wuwei"
     }]
   }]
 }

@@ -1,7 +1,7 @@
 <html>
 <head>
         <meta charset="utf-8">
-        <title>Pack</title>
+        <title>Pack Diagram</title>
 <style>
 </style>
 </head>
@@ -22,7 +22,7 @@
 	    .attr("transform", "translate(0,0)");
 
 
-	d3.json("city2.json", function(error, root) {
+	d3.json("data/city_pack.json", function(error, root) {
 
 		var nodes = pack.nodes(root);
 

@@ -44,7 +44,7 @@ var svg = d3.select("body").append("svg")
 
 
 
-d3.json("city_tree.json", function(error, root) {
+d3.json("data/city_tree.json", function(error, root) {
 
 	var nodes = tree.nodes(root);
 	var links = tree.links(nodes);
