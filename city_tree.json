@@ -1,0 +1,58 @@
+{
+"name":"China",
+"children":
+[
+	{
+	  "name":"Zhejiang" ,
+  	  "children":
+  	  [
+	  	  	{"name":"Hangzhou" },
+	  	  	{"name":"Ningbo" },
+	  	  	{"name":"Wenzhou" },
+	  	  	{"name":"Shaoxing" }
+  	  ]
+  	},
+
+	{
+		"name":"Guangxi" ,
+		"children":
+		[
+			{
+			"name":"Guilin",
+			"children":
+			[
+				{"name":"Xiufeng District"},
+				{"name":"Diecai District"},
+				{"name":"Xiangshan District"},
+				{"name":"Qixing District"}
+			]
+			},
+			{"name":"Nanning"},
+			{"name":"Liuzhou"},
+			{"name":"Fangchenggang"}
+		]
+	},
+
+	{
+		"name":"Helongjiang",
+		"children":
+		[
+			{"name":"Haerbing"},
+			{"name":"Qiqihaer"},
+			{"name":"Mudanjiang"},
+			{"name":"Daqing"}
+		]
+	},
+
+	{
+		"name":"Xinjiang" ,
+		"children":
+		[
+			{"name":"Wulumuqi"},
+			{"name":"Kelamayi"},
+			{"name":"Tulufan"},
+			{"name":"Hami"}
+		]
+	}
+]
+}
